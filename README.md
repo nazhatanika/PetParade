@@ -68,8 +68,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<!-- Replace this with whatever GIF tool you used! -->
+![Kapture 2025-08-06 at 22 00 11](https://github.com/user-attachments/assets/b5b929b8-d0e0-4260-a139-b18b0fd7952d)
 GIF created with Kap
 
 ## Notes
@@ -78,7 +77,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Anika Nazhat]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
